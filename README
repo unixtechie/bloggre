@@ -1,19 +1,20 @@
 
 FILES IN THIS REPOSITORY 
-pertain to the "Bloggre" project,
-a distributed blogging platform.
+	pertain to the "Bloggre" project,
+	a distributed blogging platform.
 
-CURRENT stage/functionality:
+CURRENT STAGE/FUNCTIONALITY:
 	* writing specifications
 	* selecting ready-made components from
 	which needed functionality can be built
 
 
 VERSION:
-Initial commit
+	No code yet, specifications
 
 
-FILES: 
-bloggre.html - read with JavaScript on; (folding
+FILES:
+	bloggre.html
+	read with JavaScript on; (folding
 	html was tested in Firefox and Opera).
 
